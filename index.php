@@ -55,6 +55,10 @@ strong {
 em {
 	font-style: italic; 
 }
+caption{
+	font-size: 15px;
+	font-weight: bold;
+}
 
 table {
 	background: #f5f5f5;
